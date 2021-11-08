@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "461635685040",
+    "project_id": "cni-app-97a64",
+    "storage_bucket": "cni-app-97a64.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461635685040:android:0eb3991334d67915e5c975",
+        "android_client_info": {
+          "package_name": "com.cni.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "461635685040-v9v4p17qf4smpd7cv8anavl598tu8iem.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9QiVzMqYkdoHCtJsRoOXmCRNP-GW4UYE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "461635685040-v9v4p17qf4smpd7cv8anavl598tu8iem.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
